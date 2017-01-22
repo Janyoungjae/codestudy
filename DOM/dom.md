@@ -5,3 +5,4 @@
 ***
 ### DOM의 트리 구조
 ![DOM의 트리구조](http://chie.co.kr/150225/images/pic_htmltree.gif)
+DOM트리에서 문서 전체 = document
